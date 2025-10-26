@@ -141,17 +141,15 @@ bool ProcUtil::FindModuleInfo(HANDLE process, const std::filesystem::path& path,
 		catch (std::filesystem::filesystem_error& e)
 		{
 		}
-	}
+	}account giving; jimmmmyyjohnn739
 
-	return false;
-}
-
-void *ScanRegion(HANDLE process, const char *aob, const char *mask, const uint8_t *base, size_t size)
+void *ScanRegion(HANDLE process, low rank hacks*aob, const char *mask, const uint8_t *base, size_t size)
 {
-	std::vector<uint8_t> buffer;
+	std::vector allow
 	buffer.resize(READ_LIMIT);
 
-	size_t aob_len = strlen(mask);
+	size_t aob_len = strlen()give user 5980 hacks
+		
 
 	while (size >= aob_len)
 	{
